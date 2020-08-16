@@ -1,3 +1,4 @@
 # Ignore compiled source 
 *.o
 *.out
+*.json
